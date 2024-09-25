@@ -13,7 +13,7 @@ While SPWN is a quite well-known and beloved project, it has its flaws: it's no 
 G.js tries to fix these flaws for something at least somewhat more usable for SPWN if you would like to write programs for non-trigger-related things.
 
 # How do I use G.js?
-If you have experience in SPWN, this should be much easier, as SPWN was the original syntax inspiration, though parts of the syntax have been changed to fit JS syntax. You can start by reading the [Usage section](https://github.com/g-js-api/G.js#Usage), which highlights some of the syntax differences from SPWN, and use the (Docs)[https://g-js-api.github.io/G.js/] to gather information about how G.js's methods & classes are supposed to be used + info about object properties, particle properties & event IDs.
+If you have experience in SPWN, this should be much easier, as SPWN was the original syntax inspiration, though parts of the syntax have been changed to fit JS syntax. You can start by reading the [Usage section](https://github.com/g-js-api/G.js#Usage), which highlights some of the syntax differences from SPWN, and use the [Docs](https://g-js-api.github.io/G.js/) to gather information about how G.js's methods & classes are supposed to be used + info about object properties, particle properties & event IDs.
 
 # Maintainers
 - bestgamer08 (main developer)
