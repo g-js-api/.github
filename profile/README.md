@@ -16,7 +16,7 @@ G.js tries to fix these flaws for something at least somewhat more usable for SP
 If you have experience in SPWN, this should be much easier, as SPWN was the original syntax inspiration, though parts of the syntax have been changed to fit JS syntax. You can start by reading the [Usage section](https://github.com/g-js-api/G.js#Usage), which highlights some of the syntax differences from SPWN, and use the [Docs](https://g-js-api.github.io/G.js/) to gather information about how G.js's methods & classes are supposed to be used + info about object properties, particle properties & event IDs.
 
 # Maintainers
-- bestgamer08 (main developer)
+- ivythegreenest (main developer)
 - Brittank88 (currently reorganizing G.js)
 
 # Support
